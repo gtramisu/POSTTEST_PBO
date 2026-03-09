@@ -1,0 +1,120 @@
+# ── ⋆⋅☆⋅⋆ ── Sistem Booking Makeup Artist ── ⋆⋅☆⋅⋆ ──
+
+### Posttest 1 - Praktikum Pemrograman Berorientasi Objek (PBO)
+
+---
+
+## ⸜(｡˃ ᵕ ˂ )⸝♡ Deskripsi Program
+
+Program **Sistem Booking Makeup Artist** adalah aplikasi berbasis **console** yang dibuat menggunakan bahasa pemrograman **Java** dengan konsep **Object-Oriented Programming (OOP)**.
+
+Program ini digunakan untuk mengelola data **booking jasa makeup artist** dengan fitur **CRUD (Create, Read, Update, Delete)**.
+Pengguna dapat menambahkan, melihat, mengubah, dan menghapus data booking melalui menu yang tersedia di program.
+
+---
+
+## (˶˃𐃷˂˶) Tujuan Program
+
+Tujuan dari pembuatan program ini adalah untuk:
+
+* Menerapkan konsep **Object-Oriented Programming (OOP)**
+* Memahami penggunaan **class dan object**
+* Mengimplementasikan operasi **CRUD**
+* Melatih pembuatan program Java berbasis **modular**
+
+---
+
+## ◝(ᵔᗜᵔ)◜Penjelasan Class
+
+### 1️⃣ Main.java
+
+Class utama yang berfungsi untuk menjalankan program dan menampilkan menu kepada pengguna.
+
+### 2️⃣ Booking.java
+
+Class yang menyimpan dan mengelola data booking seperti:
+
+* ID Booking
+* Nama Customer
+* Nama Makeup Artist
+* Tanggal Booking
+
+Class ini juga menjadi tempat implementasi **CRUD**.
+
+### 3️⃣ Customer.java
+
+Class yang digunakan untuk menyimpan data pelanggan seperti:
+
+* Nama Customer
+* Kontak Customer
+
+### 4️⃣ MakeupArtist.java
+
+Class yang menyimpan data makeup artist seperti:
+
+* Nama MUA
+* Jenis layanan makeup
+
+---
+
+## ദ്ദി◝ ⩊ ◜.ᐟ Fitur Program
+
+Program ini memiliki beberapa fitur utama:
+
+1. **Create Booking**
+   Menambahkan data booking baru.
+
+2. **Read Booking**
+   Menampilkan daftar booking yang tersedia.
+
+3. **Update Booking**
+   Mengubah data booking yang sudah ada.
+
+4. **Delete Booking**
+   Menghapus data booking dari sistem.
+
+---
+
+## (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ Tampilan Program
+
+### Menu Utama
+
+![Menu Program](assets/menu.png)
+
+### Menambah Booking
+
+![Tambah Booking](assets/tambah_booking.png)
+
+### Menampilkan Data Booking
+
+![Data Booking](assets/lihat_booking.png)
+
+### Mengedit Data Booking
+![Edit Booking](assets/update_booking.png)
+
+### Menghapus Data Booking
+![Hapus Booking](assets/hapus_booking.png)
+
+### Exit Sistem Data Booking
+![Exit Booking](assets/exit_booking.png)
+
+---
+
+## ₍^. .^₎Ⳋ  Identitas
+
+Nama : Gadis Wulandari
+
+NIM : 2409106026
+
+Kelas : A'2 2024
+
+---
+
+## (๑ᵔ⤙ᵔ๑) Kesimpulan
+
+Program ini berhasil mengimplementasikan konsep **Object-Oriented Programming (OOP)** dalam bahasa Java dengan menggunakan beberapa class yang saling berhubungan.
+Selain itu, program juga mampu menjalankan operasi **CRUD** untuk mengelola data booking makeup artist secara sederhana melalui console.
+
+---
+
+ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ Dibuat untuk memenuhi tugas **Posttest 1 Praktikum PBO**
